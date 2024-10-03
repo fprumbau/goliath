@@ -24,10 +24,6 @@ cors_domains =
 
 [history]
 
-[update_manager]
-channel = dev
-refresh_interval = 168
-
 [update_manager fluidd]
 type = web
 channel = stable
